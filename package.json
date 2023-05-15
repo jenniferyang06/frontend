@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend application using Electo with integration of OpenAI and S",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferyang06/frontend.git"
+  },
+  "author": "Jennifer Yangyang and Dimples Tinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenniferyang06/frontend/issues"
+  },
+  "homepage": "https://github.com/jenniferyang06/frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  }
+}
